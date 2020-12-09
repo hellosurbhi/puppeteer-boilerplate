@@ -13,7 +13,7 @@ On your command line
 
 * Open project in code editor ``cd {project-name} && code . ``
 
-** Note: To setup ``code .`` shortcut for VSCode on your local machine, follow [these instructions](https://code.visualstudio.com/docs/setup/mac) **
+**Note: To setup ``code .`` shortcut for VSCode on your local machine, follow** [these instructions](https://code.visualstudio.com/docs/setup/mac)
 
 * Run ``npm install``
 

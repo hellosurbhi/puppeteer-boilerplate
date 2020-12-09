@@ -1,5 +1,10 @@
-# puppeteer-starter-code
-Starter code for puppeteer projects of any complexity.
+# Puppeteer Boilerplate 
+![](https://img.shields.io/github/license/hellosurbhi/puppeteer-boilerplate) 
+![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhellosurbhi%2Fpuppeteer-boilerplate)
+<hr />
+Starter code for puppeteer projects of any complexity. 
+
+
 
 ## To use
 
@@ -23,4 +28,4 @@ On your command line
 
 ## Basic Commands 
 
-* Force end scripts by pressing ``CTRL + C``
+* Force end scripts by pressing ``CTRL + C`

@@ -28,4 +28,4 @@ On your command line
 
 ## Basic Commands 
 
-* Force end scripts by pressing ``CTRL + C`
+* Force end scripts by pressing ``CTRL + C``

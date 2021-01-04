@@ -4,7 +4,7 @@
 <hr />
 Starter code for puppeteer projects of any complexity. 
 
-
+**npm module coming soon!**
 
 ## To use
 
